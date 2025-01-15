@@ -8,14 +8,15 @@ body {
 #calculator {
     padding: 20px;
     width: 400px;
-    height: 500px;
+   
     border: 2px solid black;
     border-radius: 20px;
     
     .result{
         border: 2px solid;
         width: 360px;
-        padding: 25px;
+        height: 80px;
+        padding: 10px;
         border-radius: 15px;
         text-align: right;
         font-size: 35px;
