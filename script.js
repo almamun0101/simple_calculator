@@ -1,0 +1,3 @@
+functionc data1(){
+    
+}
